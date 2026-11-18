@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Dataset archives and imagery
+*.tar
+*.tar.gz
+*.zip
+*.tif
+*.tiff
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Experiment outputs
+runs/
+outputs/
+logs/
+wandb/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
