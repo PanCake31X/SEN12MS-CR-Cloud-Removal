@@ -1,0 +1,352 @@
+{
+  "all_100": {
+    "n": 100,
+    "cloudy": {
+      "psnr": {
+        "mean": 19.9935,
+        "std": 8.3921
+      },
+      "ssim": {
+        "mean": 0.6608,
+        "std": 0.2307
+      },
+      "sam": {
+        "mean": 10.8558,
+        "std": 6.9018
+      },
+      "mae": {
+        "mean": 0.1103,
+        "std": 0.0937
+      },
+      "rmse": {
+        "mean": 0.1458,
+        "std": 0.11
+      },
+      "lpips": {
+        "mean": 0.5027,
+        "std": 0.2526
+      }
+    },
+    "s1": {
+      "psnr": {
+        "mean": 27.1808,
+        "std": 2.2648
+      },
+      "ssim": {
+        "mean": 0.8833,
+        "std": 0.0542
+      },
+      "sam": {
+        "mean": 10.1016,
+        "std": 2.8715
+      },
+      "mae": {
+        "mean": 0.0334,
+        "std": 0.0101
+      },
+      "rmse": {
+        "mean": 0.0453,
+        "std": 0.0119
+      },
+      "lpips": {
+        "mean": 0.6698,
+        "std": 0.1445
+      }
+    },
+    "v2": {
+      "psnr": {
+        "mean": 32.3162,
+        "std": 3.5782
+      },
+      "ssim": {
+        "mean": 0.942,
+        "std": 0.0512
+      },
+      "sam": {
+        "mean": 5.3073,
+        "std": 3.924
+      },
+      "mae": {
+        "mean": 0.0184,
+        "std": 0.0099
+      },
+      "rmse": {
+        "mean": 0.0265,
+        "std": 0.0125
+      },
+      "lpips": {
+        "mean": 0.266,
+        "std": 0.1767
+      }
+    },
+    "v3": {
+      "psnr": {
+        "mean": 31.1639,
+        "std": 3.763
+      },
+      "ssim": {
+        "mean": 0.9446,
+        "std": 0.0478
+      },
+      "sam": {
+        "mean": 5.3763,
+        "std": 3.158
+      },
+      "mae": {
+        "mean": 0.0203,
+        "std": 0.0116
+      },
+      "rmse": {
+        "mean": 0.0303,
+        "std": 0.0135
+      },
+      "lpips": {
+        "mean": 0.2341,
+        "std": 0.1637
+      }
+    }
+  },
+  "thin_haze": {
+    "n": 53,
+    "cloudy": {
+      "psnr": {
+        "mean": 26.4356,
+        "std": 6.1744
+      },
+      "ssim": {
+        "mean": 0.8455,
+        "std": 0.1163
+      },
+      "sam": {
+        "mean": 6.8604,
+        "std": 5.2511
+      },
+      "mae": {
+        "mean": 0.0415,
+        "std": 0.024
+      },
+      "rmse": {
+        "mean": 0.0597,
+        "std": 0.0359
+      },
+      "lpips": {
+        "mean": 0.3474,
+        "std": 0.244
+      }
+    },
+    "s1": {
+      "psnr": {
+        "mean": 27.1291,
+        "std": 2.2024
+      },
+      "ssim": {
+        "mean": 0.8943,
+        "std": 0.0462
+      },
+      "sam": {
+        "mean": 9.7113,
+        "std": 2.4178
+      },
+      "mae": {
+        "mean": 0.0336,
+        "std": 0.0092
+      },
+      "rmse": {
+        "mean": 0.0454,
+        "std": 0.0114
+      },
+      "lpips": {
+        "mean": 0.6567,
+        "std": 0.1398
+      }
+    },
+    "v2": {
+      "psnr": {
+        "mean": 34.0393,
+        "std": 2.4145
+      },
+      "ssim": {
+        "mean": 0.9692,
+        "std": 0.0176
+      },
+      "sam": {
+        "mean": 3.3948,
+        "std": 1.443
+      },
+      "mae": {
+        "mean": 0.0137,
+        "std": 0.0032
+      },
+      "rmse": {
+        "mean": 0.0206,
+        "std": 0.0057
+      },
+      "lpips": {
+        "mean": 0.1683,
+        "std": 0.0849
+      }
+    },
+    "v3": {
+      "psnr": {
+        "mean": 32.2473,
+        "std": 4.4833
+      },
+      "ssim": {
+        "mean": 0.9646,
+        "std": 0.0253
+      },
+      "sam": {
+        "mean": 4.0353,
+        "std": 2.3479
+      },
+      "mae": {
+        "mean": 0.0198,
+        "std": 0.0149
+      },
+      "rmse": {
+        "mean": 0.0281,
+        "std": 0.0164
+      },
+      "lpips": {
+        "mean": 0.1472,
+        "std": 0.1002
+      }
+    }
+  },
+  "thick_cloud": {
+    "n": 47,
+    "cloudy": {
+      "psnr": {
+        "mean": 12.729,
+        "std": 2.6985
+      },
+      "ssim": {
+        "mean": 0.4524,
+        "std": 0.1271
+      },
+      "sam": {
+        "mean": 15.3613,
+        "std": 5.6531
+      },
+      "mae": {
+        "mean": 0.1879,
+        "std": 0.0817
+      },
+      "rmse": {
+        "mean": 0.2428,
+        "std": 0.0806
+      },
+      "lpips": {
+        "mean": 0.6777,
+        "std": 0.1038
+      }
+    },
+    "s1": {
+      "psnr": {
+        "mean": 27.2392,
+        "std": 2.3317
+      },
+      "ssim": {
+        "mean": 0.8708,
+        "std": 0.0596
+      },
+      "sam": {
+        "mean": 10.5416,
+        "std": 3.2536
+      },
+      "mae": {
+        "mean": 0.0333,
+        "std": 0.0111
+      },
+      "rmse": {
+        "mean": 0.0451,
+        "std": 0.0125
+      },
+      "lpips": {
+        "mean": 0.6846,
+        "std": 0.1482
+      }
+    },
+    "v2": {
+      "psnr": {
+        "mean": 30.3731,
+        "std": 3.6802
+      },
+      "ssim": {
+        "mean": 0.9115,
+        "std": 0.0589
+      },
+      "sam": {
+        "mean": 7.4641,
+        "std": 4.6515
+      },
+      "mae": {
+        "mean": 0.0237,
+        "std": 0.012
+      },
+      "rmse": {
+        "mean": 0.0332,
+        "std": 0.0146
+      },
+      "lpips": {
+        "mean": 0.3761,
+        "std": 0.1882
+      }
+    },
+    "v3": {
+      "psnr": {
+        "mean": 29.9421,
+        "std": 2.1553
+      },
+      "ssim": {
+        "mean": 0.922,
+        "std": 0.0563
+      },
+      "sam": {
+        "mean": 6.8886,
+        "std": 3.2692
+      },
+      "mae": {
+        "mean": 0.0208,
+        "std": 0.006
+      },
+      "rmse": {
+        "mean": 0.0329,
+        "std": 0.0087
+      },
+      "lpips": {
+        "mean": 0.3321,
+        "std": 0.1661
+      }
+    }
+  },
+  "parameters": {
+    "stage1_vae": 128308,
+    "stage1_mamba_predictor": 5022344,
+    "stage2_v2_refiner": 5097797,
+    "stage2_v3_refiner": 5097993
+  },
+  "latency_ms": {
+    "stage1_only_ms": 53.22,
+    "stage2_v2_only_ms": 36.12,
+    "stage2_v3_only_ms": 39.16,
+    "full_pipeline_v2_ms": 89.34,
+    "full_pipeline_v3_ms": 92.38
+  },
+  "weight_audit": {
+    "stage2_v2": {
+      "stage1_norm_mean": 0.9201,
+      "opt13_norm_mean": 0.8957,
+      "raw_sar_norm_mean": 0.8189,
+      "despeckled_5x5_sar_norm_mean": 0.8695,
+      "max_weight_magnitude": 1.9716
+    },
+    "stage2_v3": {
+      "stage1_norm_mean": 0.9329,
+      "opt13_norm_mean": 0.9034,
+      "raw_sar_norm_mean": 0.8143,
+      "despeckled_5x5_sar_norm_mean": 0.8705,
+      "max_weight_magnitude": 1.9724
+    }
+  }
+}

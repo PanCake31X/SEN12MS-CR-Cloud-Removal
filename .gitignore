@@ -31,3 +31,37 @@ wandb/
 .idea/
 .DS_Store
 Thumbs.db
+
+
+# ==========================================
+# Large model checkpoints - NEVER PUSH
+# ==========================================
+/checkpoints/
+
+# ==========================================
+# Kaggle files - only keep the notebook
+# ==========================================
+/kaggle/*
+!/kaggle/
+!/kaggle/ml-x16.ipynb
+
+# ==========================================
+# Notebooks - only keep the main notebook
+# ==========================================
+/notebooks/*
+!/notebooks/
+!/notebooks/MI_X16.ipynb
+
+# ==========================================
+# Local datasets - NEVER PUSH
+# ==========================================
+/data/raw/SEN12MS-CR/*
+!/data/raw/SEN12MS-CR/.gitkeep
+
+# ==========================================
+# Python cache files
+# ==========================================
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+

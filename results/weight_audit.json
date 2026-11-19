@@ -1,0 +1,16 @@
+{
+  "stage2_v2": {
+    "stage1_norm_mean": 0.9201,
+    "opt13_norm_mean": 0.8957,
+    "raw_sar_norm_mean": 0.8189,
+    "despeckled_5x5_sar_norm_mean": 0.8695,
+    "max_weight_magnitude": 1.9716
+  },
+  "stage2_v3": {
+    "stage1_norm_mean": 0.9329,
+    "opt13_norm_mean": 0.9034,
+    "raw_sar_norm_mean": 0.8143,
+    "despeckled_5x5_sar_norm_mean": 0.8705,
+    "max_weight_magnitude": 1.9724
+  }
+}

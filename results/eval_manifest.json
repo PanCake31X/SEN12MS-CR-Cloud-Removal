@@ -1,0 +1,513 @@
+{
+  "repo": "Hermanni/sen12mscr",
+  "split_note": "No dedicated test folder in HF repo; 5 fixed multi-season shards (20 tiles each)",
+  "shards": [
+    "fall/scene_120.parquet",
+    "fall/scene_65.parquet",
+    "spring/scene_39.parquet",
+    "summer/scene_139.parquet",
+    "summer/scene_86.parquet"
+  ],
+  "tiles": [
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 0,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 1,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 2,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 3,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 4,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 5,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 6,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 7,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 8,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 9,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 10,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 11,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 12,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 13,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 14,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 15,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 16,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 17,
+      "regime": "thick"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 18,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_120.parquet",
+      "row_idx": 19,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 0,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 1,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 2,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 3,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 4,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 5,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 6,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 7,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 8,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 9,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 10,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 11,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 12,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 13,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 14,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 15,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 16,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 17,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 18,
+      "regime": "thin"
+    },
+    {
+      "shard": "fall/scene_65.parquet",
+      "row_idx": 19,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 0,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 1,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 2,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 3,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 4,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 5,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 6,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 7,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 8,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 9,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 10,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 11,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 12,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 13,
+      "regime": "thin"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 14,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 15,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 16,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 17,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 18,
+      "regime": "thick"
+    },
+    {
+      "shard": "spring/scene_39.parquet",
+      "row_idx": 19,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 0,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 1,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 2,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 3,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 4,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 5,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 6,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 7,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 8,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 9,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 10,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 11,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 12,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 13,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 14,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 15,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 16,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 17,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 18,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_139.parquet",
+      "row_idx": 19,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 0,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 1,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 2,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 3,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 4,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 5,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 6,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 7,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 8,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 9,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 10,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 11,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 12,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 13,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 14,
+      "regime": "thin"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 15,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 16,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 17,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 18,
+      "regime": "thick"
+    },
+    {
+      "shard": "summer/scene_86.parquet",
+      "row_idx": 19,
+      "regime": "thick"
+    }
+  ]
+}
